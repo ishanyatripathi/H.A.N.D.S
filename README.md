@@ -54,6 +54,6 @@ pip install opencv-python mediapipe pyautogui comtypes pycaw numpy
 2. Run the program:
    python main.py
    
-📄 License
-This project is licensed under the MIT License.
+### 📄 License
+This project is licensed under the [MIT License](./LICENSE).
 You are free to use, modify, and distribute this software with proper attribution.
